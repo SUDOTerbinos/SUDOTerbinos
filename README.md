@@ -1,4 +1,3 @@
-<img align="center" width="850" src="https://camo.githubusercontent.com/a891d7d5917bebbdfcedb02348ab06be64822b69e8d1cfdad45e6dc5279f6ca7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966"  />
 
 
 <h1 align="center">Hi 👋, I'm Terbinos</h1>
