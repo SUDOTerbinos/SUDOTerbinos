@@ -69,5 +69,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudoterbinos&show_icons=true&locale=en&layout=compact" alt="sudoterbinos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudoterbinos&show_icons=true&locale=en" alt="sudoterbinos" /></p>
 
