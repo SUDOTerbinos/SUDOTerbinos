@@ -1,28 +1,29 @@
+![Header](https://github.com/SUDOTerbinos/SUDOTerbinos/blob/main/assets/banner.png)
 
+# 👋 Hi, I'm Terbinos!  
+### 🚀 Cybersecurity Enthusiast | Ethical Hacker | Python Developer
 
-<h1 align="center">Hi 👋, I'm Terbinos</h1>
-<h3 align="center">I am web developer</h3>
+I'm a passionate cybersecurity researcher and Python developer, focusing on ethical hacking, penetration testing, and security tools. I enjoy working on projects that challenge my skills and expand my knowledge in cybersecurity, cryptography, and networking.
 
+### 🔥 Skills & Technologies
 
+- 🐍 Python (Flask, Tkinter, Scapy)
+- 🛡️ Cybersecurity (Pentesting, Keylogging, RATs, OWASP Security)
+- 💻 Web Development (HTML, CSS, JavaScript)
+- 📡 Networking & Ethical Hacking (Nmap, Wireshark, Metasploit)
+- 🔐 Cryptography & Encryption (Homomorphic Encryption, Steganography)
+- 📂 Linux (Ubuntu, Kali Linux, WSL)
 
-- 🔭 I’m currently working on **some telegram bot**
+### 📌 Featured Projects
 
-- 🌱 I’m currently learning **python JS**
+🔹 **[Advanced Keylogger](https://github.com/SUDOTerbinos/keylogger)** - A keylogger tool with networking capabilities and UI enhancements.  
+🔹 **[Port Scanner Web App](https://github.com/SUDOTerbinos/port-scanner)** - A Flask-based port scanner with advanced features.  
+🔹 **[Web Vulnerability Scanner](https://github.com/SUDOTerbinos/web-vuln-scanner)** - OWASP-based web security testing tool.
 
-- 👯 I’m looking to collaborate on **tic tac toi**
+### 📫 Connect with Me
 
-- 🤝 I’m looking for help with **Portfolio web**
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/SUDOTerbinos)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:terbinosabebebirbirsa@gmail.com)  
 
-- 📫 How to reach me **terbinosabebebirbirsa@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  </a> </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDOTerbinos&layout=compact&theme=dark)
-
+💡 *“The quieter you become, the more you are able to hear.”*
