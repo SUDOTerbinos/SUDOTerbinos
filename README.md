@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Terbinos!  
 ### 🚀 Cybersecurity Enthusiast | Ethical Hacker | Python Developer
-my portifolio =  https://v0.app/chat/portfolio-image-ideas-nhhrMtDv7ID
+
 
 I'm a passionate cybersecurity researcher and Python developer, focusing on ethical hacking, penetration testing, and security tools. I enjoy working on projects that challenge my skills and expand my knowledge in cybersecurity, cryptography, and networking.
 
